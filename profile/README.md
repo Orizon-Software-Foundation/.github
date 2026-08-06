@@ -20,4 +20,4 @@ contact@orizonsoftwarefoundation.org
 legal@orizonsoftwarefoundation.org (for DMCA takedowns and other legal requests)
 
 ## Matrix Room for all chats including development
-https://matrix.to/#/#Orizon-Software-Foundation:unredacted.org
+[Click me to join!](https://matrix.to/#/#orizonsoftwarefoundation:unredacted.org)
