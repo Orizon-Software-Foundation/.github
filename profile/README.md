@@ -1,13 +1,7 @@
 # Orizon Software Foundation
 ## What we do 
-The Orizon Software Foundation is a small non-profit that maintains infrastructure libraries, developer tooling, and reference implementations for open protocols. We believe software should be free, open source, and reliable. No user should have to worry about spyware or malware with software that is free to use, free to modify, free to inspect.We do not take venture funding. We do not have a blockchain strategy. We write C, Assembly, Rust, and Python, and we ship code that runs on hardware you probably own.
+The Orizon Software Foundation is a non-profit that maintains Free Software ( not free as in beer free as in libre) . We believe software should be free, open source, and reliable. No user should have to worry with software that is free to use, free to modify, free to inspect.We do not take venture funding. We do not have a blockchain strategy.
 
-
-
-## Projects
-OHTTPd: A light-weight HTTP server. | https://github.com/OrizonSoftwareFoundation/OHTTPd
-
-OSFIX: A FOSS operating system.     | https://github.com/OrizonSoftwareFoundation/OSFIX-Operating-System
 
 
 ## How to contact us
@@ -15,3 +9,5 @@ contact@orizonsoftwarefoundation.org
 
 legal@orizonsoftwarefoundation.org (for DMCA takedowns and other legal requests)
 
+## Join our fluxer room
+https://fluxer.gg/CU5Jfj5t 
