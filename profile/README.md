@@ -9,15 +9,9 @@ OHTTPd: A light-weight HTTP server. | https://github.com/OrizonSoftwareFoundatio
 
 OSFIX: A FOSS operating system.     | https://github.com/OrizonSoftwareFoundation/OSFIX-Operating-System
 
-## Services 
-Alligitor: Forgejo-based git hosting for foundation projects. | https://alligitor.orizonsoftwarefoundation.org/
-
-Dembur: A privacy-respecting search engine | https://search.orizonsoftwarefoundation.org/ 
 
 ## How to contact us
 contact@orizonsoftwarefoundation.org
 
 legal@orizonsoftwarefoundation.org (for DMCA takedowns and other legal requests)
 
-## Matrix Room for all chats including development
-[Click me to join!](https://matrix.to/#/#orizonsoftwarefoundation:unredacted.org)
