@@ -11,3 +11,6 @@ legal@orizonsoftwarefoundation.org (for DMCA takedowns and other legal requests)
 
 ## Join our fluxer room
 https://fluxer.gg/CU5Jfj5t 
+
+## List of Projects we are working with
+Gentoo Linux ( planned and talking to via email as of now)
